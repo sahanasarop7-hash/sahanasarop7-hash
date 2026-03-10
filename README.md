@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sahana 👋
 
-<!--
-**sahanasarop7-hash/sahanasarop7-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student  
+📊 IIT Madras BS in Data Science & Applications  
+💻 Interested in Data Science, AI, and Software Development  
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- C Programming
+- Data Structures (Basics)
+- Data Analysis (Beginner)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Vehicle Number Plate Detection
+- Student Performance Predictor (ML)
+- Word Frequency Counter
+- Password Strength Checker
+
+## Connect with me
+LinkedIn: https://www.linkedin.com/in/sahana-saro-p-a45020391
