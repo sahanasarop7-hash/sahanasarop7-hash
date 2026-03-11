@@ -7,8 +7,8 @@
 ## Skills
 - Python
 - C Programming
-- Data Structures (Basics)
-- Data Analysis (Beginner)
+- Data Structures 
+- Data Analysis
 
 ## Projects
 - Vehicle Number Plate Detection
